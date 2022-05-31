@@ -11,7 +11,7 @@ The technical goal of this project is to:
 - code neural networks using Tensorflow Keras
 
 ## Deliverables
-The sumbission file predicting labels for the test set.
+The goal is to deliver a sumbission file predicting labels for the test set.
 
 
 ## Dataset
