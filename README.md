@@ -22,7 +22,7 @@ The goal is to deliver a sumbission file predicting labels for the test set.
 ## Prerequisites
 ### Dependencies
 - The source code is written in Python 3.
-- Install all requirements with pip and the requirements.txt file
+- The python packages can be installed with pip : `pip3 install -R requirements.txt`
 
 ## Usage
 Place train.csv and test.csv in the same file as the notebook. Run the notebook linearly. 
