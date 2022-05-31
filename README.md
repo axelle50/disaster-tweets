@@ -3,7 +3,7 @@
 ## Presentation video
 [Presentation video on vidyard](https://share.vidyard.com/watch/z4SYhfGvp5HQqvbgdPZp5a?)
 
-You can visit my [Collba notebook](https://colab.research.google.com/drive/1nK4y3Kl3Tw-wNLXcw7hM0FKhXHQkiqlg?usp=sharing) direclty if you don't plan to run the code yourself of modify it.
+You can visit my [Google Collab notebook](https://colab.research.google.com/drive/1nK4y3Kl3Tw-wNLXcw7hM0FKhXHQkiqlg?usp=sharing) direclty if you don't plan to run the code yourself of modify it.
 
 ## Objective
 This project aims to participate in a Kaggle competition. In some alarming tweets, people are warning others from disasters. But sometimes it might be a metaphor, "Look the sky is ablase" talking about sunset... Our deep learning algorithm will have to differenciate between regular tweets and disaster ones. 
