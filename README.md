@@ -1,4 +1,4 @@
-# Getaround project with Jedha
+# NLP Disaster tweets
 
 ## Presentation video
 [Presentation video on vidyard](https://share.vidyard.com/watch/z4SYhfGvp5HQqvbgdPZp5a?)
