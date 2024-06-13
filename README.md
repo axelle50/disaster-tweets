@@ -28,7 +28,7 @@ The goal is to deliver a sumbission file predicting labels for the test set.
 Place train.csv and test.csv in the same file as the notebook. Run the notebook linearly. 
 
 ## Team contributors
-Quentin Gottafray
+Axelle Gottafray
 
 ## References
 * [Kaggle competition](https://www.kaggle.com/competitions/nlp-getting-started/overview/description)
